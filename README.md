@@ -1,6 +1,6 @@
 # authentication-using-node
 
-This project is about adding the authentication with the help of bearer token using node.
+This template is about adding the authentication with the help of bearer token using node.
 
 # Setup
 
